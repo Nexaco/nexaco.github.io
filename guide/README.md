@@ -1,3 +1,7 @@
+GUIDA
+==============================================
+
+
 _Versione 1.1 del 19/12/2019_
 
   
@@ -10,14 +14,14 @@ Come prima cosa è necessario abilitare Invio Facile per questa funzionalità.
 
   
 
-**Attivazione dellInvio allegati tramite E-mail**
-==================================================
+Attivazione dell'Invio allegati tramite E-mail
+==============================================
 
   
 
   
 
-Accedere alla sezione di configurazione dellintermediario cliccando sul menu ad albero in corrispondenza del nome dellintermediario.
+Accedere alla sezione di configurazione dell'intermediario cliccando sul menu ad albero in corrispondenza del nome dell'intermediario.
 
   
 
@@ -25,7 +29,7 @@ Accedere alla sezione di configurazione dellintermediario cliccando sul menu ad
 
   
 
-Cliccare sulletichetta Intermediario
+Cliccare sull'etichetta "Intermediario"
 
   
 
@@ -33,7 +37,7 @@ Cliccare sulletichetta Intermediario
 
   
 
-Cliccare sullicona Comunicazioni via e-mail
+Cliccare sull'icona "Comunicazioni via e-mail"
 
   
 
@@ -54,15 +58,15 @@ Indicare:
   
 
 *   **E-mail mittente**
-    *   lindirizzo E-mail che si desidera appaia come mittente del messaggio inviato;
+    *   l'indirizzo E-mail che si desidera appaia come mittente del messaggio inviato;
 *   **Firma**
-    *   Firma da apporre in calce al testo della mail inviata. Se non viene specificato nulla, verrà utilizzata la denominazione (se non presente sarà utilizzato il Cognome ed il Nome) dellintermediario;
+    *   Firma da apporre in calce al testo della mail inviata. Se non viene specificato nulla, verrà utilizzata la denominazione (se non presente sarà utilizzato il Cognome ed il Nome) dell'intermediario;
 *   **E-mail in copia conoscenza nascosta**
     *   Indirizzo al quale saranno inoltrati i copia tutte le comunicazioni e-mail inviate con questo sistema.
 
   
 
-Una volta completato linserimento delle informazioni desiderate, cliccare sul pulsante Attiva per abilitare questa gestione in Invio Facile
+Una volta completato l'inserimento delle informazioni desiderate, cliccare sul pulsante "Attiva" per abilitare questa gestione in Invio Facile
 
   
 
@@ -75,15 +79,15 @@ Una volta completato linserimento delle informazioni desiderate, cliccare sul p
 Predisposizione al Primo Invio di allegati tramite E-mail
 =========================================================
 
-Ora che il servizio di invio degli allegati tramite e-mail è stato abilitato, è possibile iniziare a trasmettere allegati direttamente allindirizzo di posta elettronica dei clienti, che è registrato allinterno dellanagrafica cliente.
+Ora che il servizio di invio degli allegati tramite e-mail è stato abilitato, è possibile iniziare a trasmettere allegati direttamente all'indirizzo di posta elettronica dei clienti, che è registrato all'interno dell'anagrafica cliente.
 
   
 
-Dal momento che Invio Facile utilizza per la trasmissione, lindirizzo di posta elettronica del cliente che è indicato allinterno della sezione Anagrafica, è consigliabile prendere visione ed eventualmente inserire o aggiornare gli indirizzi di posta elettronica dei clienti.
+Dal momento che Invio Facile utilizza per la trasmissione, l'indirizzo di posta elettronica del cliente che è indicato all'interno della sezione Anagrafica, è consigliabile prendere visione ed eventualmente inserire o aggiornare gli indirizzi di posta elettronica dei clienti.
 
   
 
-Cliccare sulla voce Anagrafiche nel menu ad albero sulla sinistra per accedere alla lista delle anagrafiche presenti
+Cliccare sulla voce "Anagrafiche" nel menu ad albero sulla sinistra per accedere alla lista delle anagrafiche presenti
 
   
 
@@ -91,7 +95,7 @@ Cliccare sulla voce Anagrafiche nel menu ad albero sulla sinistra per accedere
 
   
 
-Selezionare nella casella di scelta presente in alto sulla pagina, la voce Elenco Anagrafica - Con E-mail per visualizzare ed eventualmente correggere gli indirizzi e-mail eventualmente già presenti.
+Selezionare nella casella di scelta presente in alto sulla pagina, la voce "Elenco Anagrafica - Con E-mail" per visualizzare ed eventualmente correggere gli indirizzi e-mail eventualmente già presenti.
 
   
 
@@ -99,7 +103,7 @@ Selezionare nella casella di scelta presente in alto sulla pagina, la voce Elen
 
   
 
-Scorrere verso destra la griglia con le anagrafiche fino a raggiungere la colonna E-mail
+Scorrere verso destra la griglia con le anagrafiche fino a raggiungere la colonna "E-mail"
 
   
 
@@ -107,7 +111,7 @@ Scorrere verso destra la griglia con le anagrafiche fino a raggiungere la colonn
 
   
 
-Qualora fosse necessario modificare un indirizzo presente sarà sufficiente fare doppio click sulla riga interessate. In questo modo si aprirà la videata con i dati anagrafici, nella quale sarà possibile variare lindirizzo e-mail indicato.
+Qualora fosse necessario modificare un indirizzo presente sarà sufficiente fare doppio click sulla riga interessate. In questo modo si aprirà la videata con i dati anagrafici, nella quale sarà possibile variare l'indirizzo e-mail indicato.
 
   
 
@@ -115,7 +119,7 @@ Qualora fosse necessario modificare un indirizzo presente sarà sufficiente fare 
 
   
 
-Oltre agli indirizzi E-mail già presenti è consigliabile visualizzare anche le anagrafiche sprovviste di Indirizzo E-mail, selezionando nella casella di scelta presente in alto sulla pagina, la voce .
+Oltre agli indirizzi E-mail già presenti è consigliabile visualizzare anche le anagrafiche sprovviste di Indirizzo E-mail, selezionando nella casella di scelta presente in alto sulla pagina, la voce "".
 
   
 
@@ -143,7 +147,7 @@ Cliccare sulla sezione Uniemens nel menu ad albero sulla sinistra
 
   
 
-Nella casella di selezione veloce stato, selezionare Accolti
+Nella casella di selezione veloce stato, selezionare "Accolti"
 
   
 
@@ -151,7 +155,7 @@ Nella casella di selezione veloce stato, selezionare Accolti
 
   
 
-Nella casella di selezione del periodo, selezionare Maggio 2016
+Nella casella di selezione del periodo, selezionare "Maggio 2016"
 
   
 
@@ -159,7 +163,7 @@ Nella casella di selezione del periodo, selezionare Maggio 2016
 
   
 
-Selezionare il modello o i modelli per i quali si vuole trasmettere allazienda cliente il modello DM10.
+Selezionare il modello o i modelli per i quali si vuole trasmettere all'azienda cliente il modello DM10.
 
   
 
@@ -167,7 +171,7 @@ Selezionare il modello o i modelli per i quali si vuole trasmettere allazienda 
 
   
 
-Fare clicl con il tasto destro del mouse in corrispondenza della selezione effettuata.Selezionare la voce del menu Stampa allegati
+Fare clicl con il tasto destro del mouse in corrispondenza della selezione effettuata.Selezionare la voce del menu "Stampa allegati"
 
   
 
@@ -175,7 +179,7 @@ Fare clicl con il tasto destro del mouse in corrispondenza della selezione effet
 
   
 
-Selezionare la voce Documenti - Ricevuta DM e cliccare sul pulsante ![](https://lh4.googleusercontent.com/RszlRUgOw6Ib6SuDbKn05IL7Cv_Fsl6G8YiOqmX2TZ8sxsgqYXRN0aAqiO3toT67q1oFUvTcYzYYPgIIJPbREiCq4yyPElcZmk0tJvxLUZdykvahr8QY7xSdtSGcENmtbvsJES0_) per includere nellinvio questa tipologia di allegato.
+Selezionare la voce "Documenti - Ricevuta DM" e cliccare sul pulsante ![](https://lh4.googleusercontent.com/RszlRUgOw6Ib6SuDbKn05IL7Cv_Fsl6G8YiOqmX2TZ8sxsgqYXRN0aAqiO3toT67q1oFUvTcYzYYPgIIJPbREiCq4yyPElcZmk0tJvxLUZdykvahr8QY7xSdtSGcENmtbvsJES0_) per includere nell'invio questa tipologia di allegato.
 
   
 
@@ -183,7 +187,7 @@ Selezionare la voce Documenti - Ricevuta DM e cliccare sul pulsante ![](https:
 
   
 
-Nel riquadro Composizione di stampa sulla sinistra è ora indicata la tipologia di allegati da trasmettere.Allo stesso modo possono essere indicati anche più allegati, che saranno inclusi ciascuno nellinvio tramite posta elettronica.
+Nel riquadro "Composizione di stampa" sulla sinistra è ora indicata la tipologia di allegati da trasmettere.Allo stesso modo possono essere indicati anche più allegati, che saranno inclusi ciascuno nell'invio tramite posta elettronica.
 
   
 
@@ -191,7 +195,7 @@ Nel riquadro Composizione di stampa sulla sinistra è ora indicata la tipologia
 
   
 
-Selezionare come Destinazione la busta bianca ![](https://lh3.googleusercontent.com/SYhmEh9rXYWYMwMJJtSzVylyW9phA890bWwdM5DESPFlknCUA5j5o0Rm_4TIhVbvvmdqtAt8Cb1V5x728JxJUAVhm5GGjHcNYdbqujUPg6b3O7hZgjekYd8Sri68yMMn_WsGCYDu) che indica linvio tramite posta elettronicaCliccare sul pulsante ![](https://lh4.googleusercontent.com/H6CK4f9RSDlz93w0UMYV8YytXWoQRXV45sFULt4aL82BkLsa9lRzBJPV_MqO7C06oRXV-nnG0H3Xwpy-wjVcxuTf_e4kpBXlIbDgJtcUgSrd8y_RbiAQlrgiGZlyv-NFc522fBB5) per procedere con linvio tramite E-mail.
+Selezionare come "Destinazione" la busta bianca ![](https://lh3.googleusercontent.com/SYhmEh9rXYWYMwMJJtSzVylyW9phA890bWwdM5DESPFlknCUA5j5o0Rm_4TIhVbvvmdqtAt8Cb1V5x728JxJUAVhm5GGjHcNYdbqujUPg6b3O7hZgjekYd8Sri68yMMn_WsGCYDu) che indica l'invio tramite posta elettronicaCliccare sul pulsante ![](https://lh4.googleusercontent.com/H6CK4f9RSDlz93w0UMYV8YytXWoQRXV45sFULt4aL82BkLsa9lRzBJPV_MqO7C06oRXV-nnG0H3Xwpy-wjVcxuTf_e4kpBXlIbDgJtcUgSrd8y_RbiAQlrgiGZlyv-NFc522fBB5) per procedere con l'invio tramite E-mail.
 
   
 
@@ -199,9 +203,9 @@ Selezionare come Destinazione la busta bianca ![](https://lh3.googleuserconten
 
   
 
-A questo punto linvio è stato pianificato, e sarà eseguito automaticamente nel corso di alcuni minuti.
+A questo punto l'invio è stato pianificato, e sarà eseguito automaticamente nel corso di alcuni minuti.
 
-E possibile tenere traccia delle comunicazioni inviate accedendo alla voce del menu ad albero sulla sinistra Comunicazioni
+E' possibile tenere traccia delle comunicazioni inviate accedendo alla voce del menu ad albero sulla sinistra "Comunicazioni"
 
   
 
@@ -209,7 +213,7 @@ E possibile tenere traccia delle comunicazioni inviate accedendo alla voce del 
 
   
 
-In questa sezione sono consultabili gli invii in corso e quelli precedentemente effettuatiIn questo caso sono presenti le comunicazioni inviate che contengono come allegato le Ricevute DM.
+In questa sezione sono consultabili gli invii in corso e quelli precedentemente effettuatiIn questo caso sono presenti le comunicazioni inviate che contengono come allegato le "Ricevute DM".
 
   
 
@@ -217,7 +221,7 @@ In questa sezione sono consultabili gli invii in corso e quelli precedentemente 
 
   
 
-Licona ![](https://lh4.googleusercontent.com/furW3ftXXolljf5ZQnF4cs-6gNLKM3k-a_ZIi4flZZCoLjZ6dSNcHuKwBjrg7D9G5QFBMX9FRRHU44vsrVrET-pt8zqapAb0ZC3BNt7xny3oBIo248dlXrxSng9syEmQF0FbhSMi) indica che la comunicazione non è ancora stata inviata.Una volta che il messaggio sarà stato inviato, licone diventerà verde ![](https://lh3.googleusercontent.com/vd4iSlRNhZhJKVjCD1kWZdDTCDuklNzzprMDCkZKSGoEe26CT3YX9ro13irB2DhlU9HsCWs4_uW-Zz3nuVuboOz7rHgn0Tzkucl2Yghhq9Ismzy5wr_ZBje2CzR84xvrS1edsiuS)Qui a fianco sono riportati i vari stati che la comunicazione può assumere assieme ad una breve descrizione del significato rappresentato.
+L'icona ![](https://lh4.googleusercontent.com/furW3ftXXolljf5ZQnF4cs-6gNLKM3k-a_ZIi4flZZCoLjZ6dSNcHuKwBjrg7D9G5QFBMX9FRRHU44vsrVrET-pt8zqapAb0ZC3BNt7xny3oBIo248dlXrxSng9syEmQF0FbhSMi) indica che la comunicazione non è ancora stata inviata.Una volta che il messaggio sarà stato inviato, l'icone diventerà verde ![](https://lh3.googleusercontent.com/vd4iSlRNhZhJKVjCD1kWZdDTCDuklNzzprMDCkZKSGoEe26CT3YX9ro13irB2DhlU9HsCWs4_uW-Zz3nuVuboOz7rHgn0Tzkucl2Yghhq9Ismzy5wr_ZBje2CzR84xvrS1edsiuS)Qui a fianco sono riportati i vari stati che la comunicazione può assumere assieme ad una breve descrizione del significato rappresentato.
 
 ![](https://lh6.googleusercontent.com/wVNhLZeGYAGIoPbsAp1ZQup2Fgm4KrLYY3AniKg3k0MJYwv-aExOdN95ZfX8-wcvTakXQssmC_5HDF251_ZCcGJn11WZ8rOn3j0YzGjMDQTk6qEPy_XltRixcrAb-MF-4oQNKJqW)
 
@@ -239,7 +243,7 @@ Di seguito ne è riportato un esempio.
 
   
 
-Attivazione dellopzione di invio automatico degli allegati
+Attivazione dell'opzione di invio automatico degli allegati
 ===========================================================
 
   
@@ -248,11 +252,11 @@ Invio Facile offre la possibilità di inviare in maniera completamente automatica
 
   
 
-Per abilitare questa funzionalità, è necessario anzitutto aver attivato limpostazione che consente ad Invio Facile la trasmissione di E-mail in generale, descritta nei capitoli precedenti.
+Per abilitare questa funzionalità, è necessario anzitutto aver attivato l'impostazione che consente ad Invio Facile la trasmissione di E-mail in generale, descritta nei capitoli precedenti.
 
   
 
-Una volta abilitato liovio di E-mail, per attivare lautomatismo, selezionare la voce Predefinito che si trova subito sotto alla denominazione dellintermediario allinterno del menu ad albero principale. Successivamente cliccare sullicona Comunicazioni via E-mail automatiche
+Una volta abilitato l'iovio di E-mail, per attivare l'automatismo, selezionare la voce "Predefinito" che si trova subito sotto alla denominazione dell'intermediario all'interno del menu ad albero principale. Successivamente cliccare sull'icona "Comunicazioni via E-mail automatiche"
 
   
 
@@ -265,8 +269,8 @@ Analogamente a quanto fatto nei punti precedenti:
   
 
 *   specificare quali categorie di allegati si desidera siano inviate in automatico ai clienti;
-*   Impostare lindirizzo al quale dovranno pervenire eventuali risposte dei clienti ai messaggi e-mail contenenti questi allegati ed eventualmente una dicitura tipo firma se si desidera compaia un testo diverso rispetto alla Denominazione dellintermediario.
-*   Abilitare linvio automatico cliccando sul pulsante Abilita
+*   Impostare l'indirizzo al quale dovranno pervenire eventuali risposte dei clienti ai messaggi e-mail contenenti questi allegati ed eventualmente una dicitura tipo "firma" se si desidera compaia un testo diverso rispetto alla Denominazione dell'intermediario.
+*   Abilitare l'invio automatico cliccando sul pulsante "Abilita"
 
   
 
@@ -274,12 +278,12 @@ Analogamente a quanto fatto nei punti precedenti:
 
   
 
-Una volta abilitata questa funzionalità, non appena Invio Facile entrerà in possesso di un allegato appartenente ad una delle categorie di allegati che si è scelto di inviare automaticamente, effettuerà un invio di posta elettronica verso lindirizzo e-mail associato allanagrafica alla quale appartengono i documenti allegati.
+Una volta abilitata questa funzionalità, non appena Invio Facile entrerà in possesso di un allegato appartenente ad una delle categorie di allegati che si è scelto di inviare automaticamente, effettuerà un invio di posta elettronica verso l'indirizzo e-mail associato all'anagrafica alla quale appartengono i documenti allegati.
 
   
 
 > **Attenzione**  
-> Al momento non è possibile escludere una o più anagrafiche da questi invii, salvo rimuovere dallanagrafica stessa lindirizzo e-mail, inibendo di fatto la possibilità di inviare e-mail verso lanagrafica in questione.
+> Al momento non è possibile escludere una o più anagrafiche da questi invii, salvo rimuovere dall'anagrafica stessa l'indirizzo e-mail, inibendo di fatto la possibilità di inviare e-mail verso l'anagrafica in questione.
 
   
 
