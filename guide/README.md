@@ -10,8 +10,8 @@ Invio Facile offre la possibilit� di effettuare invii tramite e-mail dei docum
 
 Come prima cosa � necessario abilitare Invio Facile per questa funzionalit�.
 
+![](2020-03-18-12-11-43.png)
 
-  ![](2020-03-18-11-59-06.png)
 
 Attivazione dell'Invio allegati tramite E-mail
 ==============================================
@@ -36,7 +36,7 @@ test : Description
 class ClassImpostazioni {
   .. Simple Getter ..
   + getName()
-  + getAddress()
+  + getAddress(int address)
   .. Some setter ..
   + setName()
   __ private data __
