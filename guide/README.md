@@ -4,18 +4,52 @@ GUIDA
 _Ultimo aggiornamento: {docsify-updated}_
   
 
-Invio Facile offre la possibilità di effettuare invii tramite e-mail dei documenti allegati alle pratiche elaborate.
+Invio Facile offre la possibilitï¿½ di effettuare invii tramite e-mail dei documenti allegati alle pratiche elaborate.
 
   
 
-Come prima cosa è necessario abilitare Invio Facile per questa funzionalità.
+Come prima cosa ï¿½ necessario abilitare Invio Facile per questa funzionalitï¿½.
 
-  
+
+  ![](2020-03-18-11-59-06.png)
 
 Attivazione dell'Invio allegati tramite E-mail
 ==============================================
 
-  
+### Section X
+```plantuml
+@startuml
+
+object user
+
+user : name = "Dummy"
+user : id = 123
+
+object test
+
+test : name
+test : id
+test : Guid
+test : Description
+
+
+class ClassImpostazioni {
+  .. Simple Getter ..
+  + getName()
+  + getAddress()
+  .. Some setter ..
+  + setName()
+  __ private data __
+  int age
+  -- encrypted --
+  String password
+}
+
+
+user -> test : idUtente
+user --> ClassImpostazioni
+@enduml
+```  
 
   
 
@@ -43,7 +77,7 @@ Cliccare sull'icona "Comunicazioni via e-mail"
 
   
 
-Apparirà la seguente schermata...
+Apparirï¿½ la seguente schermata...
 
   
 
@@ -58,7 +92,7 @@ Indicare:
 *   **E-mail mittente**
     *   l'indirizzo E-mail che si desidera appaia come mittente del messaggio inviato;
 *   **Firma**
-    *   Firma da apporre in calce al testo della mail inviata. Se non viene specificato nulla, verrà utilizzata la denominazione (se non presente sarà utilizzato il Cognome ed il Nome) dell'intermediario;
+    *   Firma da apporre in calce al testo della mail inviata. Se non viene specificato nulla, verrï¿½ utilizzata la denominazione (se non presente sarï¿½ utilizzato il Cognome ed il Nome) dell'intermediario;
 *   **E-mail in copia conoscenza nascosta**
     *   Indirizzo al quale saranno inoltrati i copia tutte le comunicazioni e-mail inviate con questo sistema.
 
@@ -77,11 +111,11 @@ Una volta completato l'inserimento delle informazioni desiderate, cliccare sul p
 Predisposizione al Primo Invio di allegati tramite E-mail
 =========================================================
 
-Ora che il servizio di invio degli allegati tramite e-mail è stato abilitato, è possibile iniziare a trasmettere allegati direttamente all'indirizzo di posta elettronica dei clienti, che è registrato all'interno dell'anagrafica cliente.
+Ora che il servizio di invio degli allegati tramite e-mail ï¿½ stato abilitato, ï¿½ possibile iniziare a trasmettere allegati direttamente all'indirizzo di posta elettronica dei clienti, che ï¿½ registrato all'interno dell'anagrafica cliente.
 
   
 
-Dal momento che Invio Facile utilizza per la trasmissione, l'indirizzo di posta elettronica del cliente che è indicato all'interno della sezione Anagrafica, è consigliabile prendere visione ed eventualmente inserire o aggiornare gli indirizzi di posta elettronica dei clienti.
+Dal momento che Invio Facile utilizza per la trasmissione, l'indirizzo di posta elettronica del cliente che ï¿½ indicato all'interno della sezione Anagrafica, ï¿½ consigliabile prendere visione ed eventualmente inserire o aggiornare gli indirizzi di posta elettronica dei clienti.
 
   
 
@@ -93,7 +127,7 @@ Cliccare sulla voce "Anagrafiche" nel menu ad albero sulla sinistra per accedere
 
   
 
-Selezionare nella casella di scelta presente in alto sulla pagina, la voce "Elenco Anagrafica - Con E-mail" per visualizzare ed eventualmente correggere gli indirizzi e-mail eventualmente già presenti.
+Selezionare nella casella di scelta presente in alto sulla pagina, la voce "Elenco Anagrafica - Con E-mail" per visualizzare ed eventualmente correggere gli indirizzi e-mail eventualmente giï¿½ presenti.
 
   
 
@@ -109,7 +143,7 @@ Scorrere verso destra la griglia con le anagrafiche fino a raggiungere la colonn
 
   
 
-Qualora fosse necessario modificare un indirizzo presente sarà sufficiente fare doppio click sulla riga interessate. In questo modo si aprirà la videata con i dati anagrafici, nella quale sarà possibile variare l'indirizzo e-mail indicato.
+Qualora fosse necessario modificare un indirizzo presente sarï¿½ sufficiente fare doppio click sulla riga interessate. In questo modo si aprirï¿½ la videata con i dati anagrafici, nella quale sarï¿½ possibile variare l'indirizzo e-mail indicato.
 
   
 
@@ -117,7 +151,7 @@ Qualora fosse necessario modificare un indirizzo presente sarà sufficiente fare 
 
   
 
-Oltre agli indirizzi E-mail già presenti è consigliabile visualizzare anche le anagrafiche sprovviste di Indirizzo E-mail, selezionando nella casella di scelta presente in alto sulla pagina, la voce "".
+Oltre agli indirizzi E-mail giï¿½ presenti ï¿½ consigliabile visualizzare anche le anagrafiche sprovviste di Indirizzo E-mail, selezionando nella casella di scelta presente in alto sulla pagina, la voce "".
 
   
 
@@ -129,11 +163,11 @@ Ripetere lo stesso procedimento visto precedentemente per valorizzare gli Indiri
 
   
 
-Ora che gli indirizzi E-mail presenti in anagrafica sono stati Revisionati o aggiunti è possibile iniziare ad inviare Allegati tramite E-mail direttamente da Invio Facile.
+Ora che gli indirizzi E-mail presenti in anagrafica sono stati Revisionati o aggiunti ï¿½ possibile iniziare ad inviare Allegati tramite E-mail direttamente da Invio Facile.
 
   
 
-Supponiamo di voler inviare tramite E-mail alle aziende clienti, i modelli Dm10 relativi alla mensilità Uniemens di Maggio 2016, ma il medesimo procedimento è applicabile ad ogni tipologia di modello gestito e ad ogni tipologia di allegato presente nella gestione allegati.
+Supponiamo di voler inviare tramite E-mail alle aziende clienti, i modelli Dm10 relativi alla mensilitï¿½ Uniemens di Maggio 2016, ma il medesimo procedimento ï¿½ applicabile ad ogni tipologia di modello gestito e ad ogni tipologia di allegato presente nella gestione allegati.
 
   
 
@@ -185,7 +219,7 @@ Selezionare la voce "Documenti - Ricevuta DM" e cliccare sul pulsante ![](https:
 
   
 
-Nel riquadro "Composizione di stampa" sulla sinistra è ora indicata la tipologia di allegati da trasmettere.Allo stesso modo possono essere indicati anche più allegati, che saranno inclusi ciascuno nell'invio tramite posta elettronica.
+Nel riquadro "Composizione di stampa" sulla sinistra ï¿½ ora indicata la tipologia di allegati da trasmettere.Allo stesso modo possono essere indicati anche piï¿½ allegati, che saranno inclusi ciascuno nell'invio tramite posta elettronica.
 
   
 
@@ -201,7 +235,7 @@ Selezionare come "Destinazione" la busta bianca ![](https://lh3.googleuserconten
 
   
 
-A questo punto l'invio è stato pianificato, e sarà eseguito automaticamente nel corso di alcuni minuti.
+A questo punto l'invio ï¿½ stato pianificato, e sarï¿½ eseguito automaticamente nel corso di alcuni minuti.
 
 E' possibile tenere traccia delle comunicazioni inviate accedendo alla voce del menu ad albero sulla sinistra "Comunicazioni"
 
@@ -219,7 +253,7 @@ In questa sezione sono consultabili gli invii in corso e quelli precedentemente 
 
   
 
-L'icona ![](https://lh4.googleusercontent.com/furW3ftXXolljf5ZQnF4cs-6gNLKM3k-a_ZIi4flZZCoLjZ6dSNcHuKwBjrg7D9G5QFBMX9FRRHU44vsrVrET-pt8zqapAb0ZC3BNt7xny3oBIo248dlXrxSng9syEmQF0FbhSMi) indica che la comunicazione non è ancora stata inviata.Una volta che il messaggio sarà stato inviato, l'icone diventerà verde ![](https://lh3.googleusercontent.com/vd4iSlRNhZhJKVjCD1kWZdDTCDuklNzzprMDCkZKSGoEe26CT3YX9ro13irB2DhlU9HsCWs4_uW-Zz3nuVuboOz7rHgn0Tzkucl2Yghhq9Ismzy5wr_ZBje2CzR84xvrS1edsiuS)Qui a fianco sono riportati i vari stati che la comunicazione può assumere assieme ad una breve descrizione del significato rappresentato.
+L'icona ![](https://lh4.googleusercontent.com/furW3ftXXolljf5ZQnF4cs-6gNLKM3k-a_ZIi4flZZCoLjZ6dSNcHuKwBjrg7D9G5QFBMX9FRRHU44vsrVrET-pt8zqapAb0ZC3BNt7xny3oBIo248dlXrxSng9syEmQF0FbhSMi) indica che la comunicazione non ï¿½ ancora stata inviata.Una volta che il messaggio sarï¿½ stato inviato, l'icone diventerï¿½ verde ![](https://lh3.googleusercontent.com/vd4iSlRNhZhJKVjCD1kWZdDTCDuklNzzprMDCkZKSGoEe26CT3YX9ro13irB2DhlU9HsCWs4_uW-Zz3nuVuboOz7rHgn0Tzkucl2Yghhq9Ismzy5wr_ZBje2CzR84xvrS1edsiuS)Qui a fianco sono riportati i vari stati che la comunicazione puï¿½ assumere assieme ad una breve descrizione del significato rappresentato.
 
 ![](https://lh6.googleusercontent.com/wVNhLZeGYAGIoPbsAp1ZQup2Fgm4KrLYY3AniKg3k0MJYwv-aExOdN95ZfX8-wcvTakXQssmC_5HDF251_ZCcGJn11WZ8rOn3j0YzGjMDQTk6qEPy_XltRixcrAb-MF-4oQNKJqW)
 
@@ -227,11 +261,11 @@ L'icona ![](https://lh4.googleusercontent.com/furW3ftXXolljf5ZQnF4cs-6gNLKM3k-a_
 
   
 
-La comunicazione E-mail viene inviata con un testo standard non è modificabile, molto semplice ma che contiene gli elementi necessari per identificare sia il soggetto mittente che il soggetto al quale si riferiscono i documenti allegati.
+La comunicazione E-mail viene inviata con un testo standard non ï¿½ modificabile, molto semplice ma che contiene gli elementi necessari per identificare sia il soggetto mittente che il soggetto al quale si riferiscono i documenti allegati.
 
   
 
-Di seguito ne è riportato un esempio.
+Di seguito ne ï¿½ riportato un esempio.
 
   
 
@@ -246,11 +280,11 @@ Attivazione dell'opzione di invio automatico degli allegati
 
   
 
-Invio Facile offre la possibilità di inviare in maniera completamente automatica alcune categorie di allegati, in modo che possano essere inoltrare ai clienti le rispettive ricevute, senza intervento alcuno da parte di un operatore.
+Invio Facile offre la possibilitï¿½ di inviare in maniera completamente automatica alcune categorie di allegati, in modo che possano essere inoltrare ai clienti le rispettive ricevute, senza intervento alcuno da parte di un operatore.
 
   
 
-Per abilitare questa funzionalità, è necessario anzitutto aver attivato l'impostazione che consente ad Invio Facile la trasmissione di E-mail in generale, descritta nei capitoli precedenti.
+Per abilitare questa funzionalitï¿½, ï¿½ necessario anzitutto aver attivato l'impostazione che consente ad Invio Facile la trasmissione di E-mail in generale, descritta nei capitoli precedenti.
 
   
 
@@ -276,19 +310,19 @@ Analogamente a quanto fatto nei punti precedenti:
 
   
 
-Una volta abilitata questa funzionalità, non appena Invio Facile entrerà in possesso di un allegato appartenente ad una delle categorie di allegati che si è scelto di inviare automaticamente, effettuerà un invio di posta elettronica verso l'indirizzo e-mail associato all'anagrafica alla quale appartengono i documenti allegati.
+Una volta abilitata questa funzionalitï¿½, non appena Invio Facile entrerï¿½ in possesso di un allegato appartenente ad una delle categorie di allegati che si ï¿½ scelto di inviare automaticamente, effettuerï¿½ un invio di posta elettronica verso l'indirizzo e-mail associato all'anagrafica alla quale appartengono i documenti allegati.
 
   
 
 > **Attenzione**  
-> Al momento non è possibile escludere una o più anagrafiche da questi invii, salvo rimuovere dall'anagrafica stessa l'indirizzo e-mail, inibendo di fatto la possibilità di inviare e-mail verso l'anagrafica in questione.
+> Al momento non ï¿½ possibile escludere una o piï¿½ anagrafiche da questi invii, salvo rimuovere dall'anagrafica stessa l'indirizzo e-mail, inibendo di fatto la possibilitï¿½ di inviare e-mail verso l'anagrafica in questione.
 
   
 
 Limitare l'invio E-mail per un'anagrafica specifica
 ===================================================
 
-Potrebbe presentarsi la necessità che per una o più anagrafiche cliente, non vengano inviate e-mail automatiche o che la trasmissione di e-mail sia impedita anche se richiesta manualmente.
+Potrebbe presentarsi la necessitï¿½ che per una o piï¿½ anagrafiche cliente, non vengano inviate e-mail automatiche o che la trasmissione di e-mail sia impedita anche se richiesta manualmente.
 
 Per limitare la trasmissione delle comunicazioni via e-mail per un'anagrafica specifica, accedere all'elenco delle anagrafiche...
 
