@@ -1,5 +1,5 @@
 _Versione 1.1 del 19/12/2019_
-
+Last update: {docsify-updated}
   
 
 Invio Facile offre la possibilità di effettuare invii tramite e-mail dei documenti allegati alle pratiche elaborate.
